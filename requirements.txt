@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Python standard libraries (no version specifier needed)
+time
+math
+
+# Third-party packages with version specifiers
+googlemaps==4.5.3
+pandas==1.3.3
+openpyxl==3.0.9
